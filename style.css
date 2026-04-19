@@ -168,8 +168,8 @@ footer {
         height: auto;
     }
 
-.show-price {
-    display: none;
+    .show-price {
+        display: none;
     }
 
     .collage-grid{
