@@ -168,6 +168,10 @@ footer {
         height: auto;
     }
 
+.show-price {
+    display: none;
+    }
+
     .collage-grid{
         grid-template-columns: repeat(2,1fr);
     }
