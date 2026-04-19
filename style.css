@@ -169,7 +169,7 @@ footer {
     }
 
     .show-price {
-        display: none;
+        display: none !important;
     }
 
     .collage-grid{
